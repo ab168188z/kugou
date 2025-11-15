@@ -1,0 +1,231 @@
+﻿
+.cmfoot {
+  background: #2C323B;
+  color: #B1B3B9;
+  padding-bottom: 60px;
+}
+
+ul.cmfoot_ul1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+
+a.cmfoot_a2 {
+  color: #B1B3B9;
+}
+
+li.cmfoot_li1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 10px;
+}
+
+li.cmfoot_li1:nth-child(1) {
+  margin-left: 0;
+}
+
+ul.cmfoot_ul2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+a.cmfoot_a3 {
+  color: #B1B3B9;
+  font-size: 12px;
+}
+
+li.cmfoot_li2 {
+  color: #B1B3B9;
+  font-size: 12px;
+  padding: 0 6px;
+  border-left: 1px solid gray;
+  height: 12px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  flex-shrink: 0;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+li.cmfoot_li2:nth-child(1) {
+  border-left: none;
+}
+
+.cmfoot_d1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-bottom: 12px;
+  font-size: 12px;
+}
+
+a.cmfoot_d1_a1 {
+  color: #B1B3B9;
+  margin-right: 12px;
+}
+
+span.cmfoot_d1_sp1 {
+  margin-right: 12px;
+}
+
+a.cmfoot_a3:hover {
+  color: #fff;
+}
+
+a.cmfoot_a2:hover {
+  color: #fff;
+}
+
+a.cmfoot_d1_a1:hover {
+  color: #fff;
+}
+a.cmfoot_a1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.cmfoot_a1_d1 {
+  width: 70px;
+  height: 70px;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+}
+
+p.cmfoot_a1_p1 {
+  color: #B1B3B9;
+  text-align: center;
+  font-size: 12px;
+}
+
+.cmfoot_a1_d1._i1 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_tme.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i1:hover .cmfoot_a1_d1._i1 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_tme_blue.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i2 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i2.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i2:hover .cmfoot_a1_d1._i2 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i2_blue.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i3 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i3.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i3:hover .cmfoot_a1_d1._i3 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i3_blue.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i4 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i4.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i4:hover .cmfoot_a1_d1._i4 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i4_blue.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i5 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i5.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i5:hover .cmfoot_a1_d1._i5 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i5_active.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i6 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i6.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i6:hover .cmfoot_a1_d1._i6 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i6_active.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i7 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i7.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i7:hover .cmfoot_a1_d1._i7 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i7_active.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1_d1._i8 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i8.png) no-repeat;
+  background-size: 100%;
+}
+.cmfoot_a1._a4i8:hover .cmfoot_a1_d1._i8 {
+  background: url(https://kugoufc.top/static/image/icon_cmfoot_i8_active.png) no-repeat;
+  background-size: 100%;
+}
+
+.cmfoot_a1:hover .cmfoot_a1_p1 {
+  color: #fff;
+}

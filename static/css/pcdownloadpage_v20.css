@@ -1,0 +1,257 @@
+﻿/* common */
+body { margin:0; padding:0; }
+html {
+	font-size: 100px;
+}
+
+#page_v20{margin-top: -0.6rem;background-repeat: no-repeat;background-color: #E8F5FF;font-size: 0;background-position:top center;background-size: 100% auto; overflow: hidden;width: 100%;}
+#page_v20 .section_wrap{max-width: 19.2rem;position: relative;left: 50%;margin-left: -9.6rem;}
+#page_v20 .section_head{height: 8.54rem;position: relative;}
+#page_v20 .section_foot{height: 7.74rem;position: relative;}
+#page_v20 .section_content{height: 11.34rem;position: relative;}
+#page_v20 img{display: block;margin: 0 auto;}
+#page_v20 .section_head *{background-repeat: no-repeat;background-size: 100% 100%;position: absolute;left: 50%;}
+#page_v20 .section_head .section_logo{background-image: url(../image/sh_logo.png);top: 3rem;width: 2.04rem; height: .38rem;margin-left: -1.02rem;}
+#page_v20 .section_head .section_slogan{background-image: url(../image/sh_slogan.png);top: 3.78rem;width:3.74rem; height: .78rem;margin-left: -1.87rem;}
+#page_v20 .section_head .section_download{background-image: url(../image/sh_download.png);top: 5.49rem;width: 3.4rem; height: .67rem;margin-left: -1.7rem;}
+#page_v20 .section_head .section_download:hover{background-image: url(../image/sh_download_hover.png);}
+
+#page_v20 .section_head .section_tips{background-image: url(../image/sh_text.png);top: 6.38rem;width: 2.76rem; height: .5rem;margin-left: -1.38rem;}
+
+#page_v20 .section_foot *{background-repeat: no-repeat;background-size: 100% 100%;position: absolute;left: 50%;}
+#page_v20 .section_foot .section_logo{background-image: url(../image/sf_logo.png);top: 1rem;width: 2.06rem; height: .38rem;margin-left: -1.03rem;}
+#page_v20 .section_foot .section_slogan{background-image: url(../image/sf_slogan.png);top: 1.88rem;width: 4.31rem; height: .9rem;margin-left: -2.155rem;}
+#page_v20 .section_foot .section_download{background-image: url(../image/sf_download.png);top: 3.71rem;width: 3.4rem; height: .67rem;margin-left: -1.7rem;}
+#page_v20 .section_foot .section_download:hover{background-image: url(../image/sf_download_hover.png);}
+#page_v20 .section_foot .section_tips{background-image: url(../image/sf_text.png);top: 4.6rem;width: 2.76rem; height: .5rem;margin-left: -1.38rem;}
+
+#page_v20 .section_content *{background-repeat: no-repeat;background-size: 100% 100%;position: absolute;left: 50%;}
+#page_v20 #section1 h1{background-image: url(../image/s1_title.png);width: 5.41rem;height: .42rem;top: .95rem;margin-left:-2.705rem;}
+#page_v20 #section1 .pic1{width: 13.42rem;height: 8rem;top: 2.1rem;margin-left:-6.71rem;}
+
+#page_v20 #section2 h1{background-image: url(https://kugoufc.top/static/image/s2_title.png);width: 1.74rem;height: .42rem;top: 1.03rem;margin-left:-0.87rem;}
+#page_v20 #section2 p{background-image: url(https://kugoufc.top/static/image/s2_sub_title.png);width: 4.32rem;height: .2rem;top: 1.68rem;margin-left:-2.16rem;}
+#page_v20 #section2 .pic0{width: 13.1rem;height: 8.41rem;top: 1.72rem;margin-left:-6.55rem;}
+#page_v20 #section2 .pic1{width: 8.23rem;height: 5.48rem;top: 2.68rem;left: 4.42rem;}
+#page_v20 #section2 .pic2{width: 7.67rem;height: 5.2rem;top: 4.74rem;left: 7.12rem;}
+#page_v20 #section2 .pic31{width: 3.2rem;height: 4.8rem;top: 4.84rem;left: 9.5rem;}
+#page_v20 #section2 .pic4{width: 5.6rem;height: 4.7rem;top: 3.07rem;left: 11.51rem;}
+
+
+
+#page_v20 #section3 h1{background-image: url(https://kugoufc.top/static/image/s3_title.png);width: 4.88rem;height: .42rem;top: 1rem;margin-left:-2.44rem;}
+#page_v20 #section3 p{background-image: url(https://kugoufc.top/static/image/s3_sub_title.png);width: 4.39rem;height: .2rem;top: 1.68rem;margin-left:-2.195rem;}
+#page_v20 #section3 .pic1{width: 10.6rem;height: 7.21rem;top: 2.68rem;margin-left: -5.3rem;}
+#page_v20 #section3 .pic2{width: 3.48rem;height:2.16rem;top: 3.5rem;left: 2.04rem;}
+#page_v20 #section3 .pic3{width: 3.48rem;height: 1.96rem;top: 7.2rem;left: 3.15rem;}
+#page_v20 #section3 .pic4{width: 3.48rem;height: 2.84rem;top: 3.84rem;right: 2.36rem;left: auto;}
+#page_v20 #section3 .pic5{width: .82rem;height: .82rem;top: 7.49rem;right: 3.08rem;left: auto;}
+
+
+
+#page_v20 #section4 h1{background-image: url(https://kugoufc.top/static/image/s4_title.png);width: 4.47rem;height: .42rem;top: 1rem;margin-left:-2.235rem;}
+#page_v20 #section4 p{background-image: url(https://kugoufc.top/static/image/s4_sub_title.png);width: 7.68rem;height: .19rem;top: 1.69rem;margin-left:-3.84rem;}
+#page_v20 #section4 .pic1{width: 10.6rem;height: 7.2rem;top: 2.68rem;margin-left: -5.3rem;}
+#page_v20 #section4 .pic2{width: 9.57rem;height: 3.2rem;top:3.35rem;right: 2.83rem;left: auto;}
+#page_v20 #section4 .pic3{width: 3.84rem;height: 1.8rem;top: 3.65rem;left: 2.95rem;}
+
+
+#page_v20 .revealOnScroll { visibility:hidden; }
+#page_v20 .revealOnScroll.animated { visibility:visible; }
+@supports (animation-delay:.1s) {
+	.animated.section_head *,.animated.section_foot *{
+		opacity:0;
+        -webkit-animation: slideMove 0.5s ease-out forwards;
+		animation: slideMove 0.5s ease-out forwards;
+	}
+	.animated .section_logo{
+		-webkit-animation-delay: .1s;
+		animation-delay: .1s;
+	}
+	.animated  .section_slogan{
+		-webkit-animation-delay: .3s;
+		animation-delay: .3s;
+	}
+	.animated  .section_download{
+		-webkit-animation-delay: .5s;
+		animation-delay: .5s;
+	}
+	.animated  .section_tips{
+		-webkit-animation-delay: .7s;
+		animation-delay: .7s;
+	}
+	.animated h1,.animated p{
+        opacity:0;
+		-webkit-animation: slideMove 0.5s ease-out forwards;
+		animation: slideMove 0.5s ease-out forwards;
+	}
+	.animated h1{
+		-webkit-animation-delay: .1s;
+		animation-delay: .1s;
+	}
+	.animated p{
+		-webkit-animation-delay: .3s;
+		animation-delay: .3s;
+	}
+	.animated#section1 .pic1{
+		opacity:0;
+		-webkit-animation: slideMove 0.5s ease-out forwards;
+		animation: slideMove 0.5s ease-out forwards;
+		-webkit-animation-delay: .3s;
+		animation-delay: .3s;
+	}
+	.animated#section2 .pic0{
+		opacity:0;
+		-webkit-animation: fadeOpacity 1s ease-out forwards;
+		animation: fadeOpacity 1s ease-out forwards;
+	}
+	.animated#section2 .pic1{
+		opacity:0;
+        -webkit-animation: slideLeft .5s ease-out forwards;
+		animation: slideLeft .5s ease-out forwards;
+		-webkit-animation-delay: .5s;
+		animation-delay: .5s;
+	}
+	.animated#section2 .pic2,.animated#section2 .pic31,.animated#section2 .pic4{
+		opacity:0;
+        -webkit-animation: slideRight .5s ease-out forwards;
+		animation: slideRight .5s ease-out forwards;
+		-webkit-animation-delay: .5s;
+		animation-delay: .5s;
+	}
+
+	.animated#section3 .pic1{
+		opacity:0;
+		-webkit-animation: slideMove 0.5s ease-out forwards;
+		animation: slideMove 0.5s ease-out forwards;
+		-webkit-animation-delay: .5s;
+		animation-delay: .5s;
+    }
+ 
+	.animated#section3 .pic2 ,.animated#section3 .pic3{
+		opacity:0;
+        -webkit-animation: slideLeft2 .5s cubic-bezier(0.39, 0.58, 0.57, 1) forwards;
+		animation: slideLeft2 .5s cubic-bezier(0.39, 0.58, 0.57, 1) forwards;
+	}
+	.animated#section3 .pic4 ,.animated#section3 .pic5{
+		opacity:0;
+        -webkit-animation: slideRight2 .5s cubic-bezier(0.39, 0.58, 0.57, 1) forwards;
+		animation: slideRight2 .5s cubic-bezier(0.39, 0.58, 0.57, 1) forwards;
+	}
+	.animated#section3 .pic2{
+		-webkit-animation-delay: 0.6s;
+		animation-delay: 0.6s;
+	}
+	.animated#section3 .pic3{
+		-webkit-animation-delay: 0.65s;
+		animation-delay: 0.65s;
+	}
+	.animated#section3 .pic4{
+		-webkit-animation-delay: 0.6s;
+		animation-delay: 0.6s;
+	}
+	.animated#section3 .pic5{
+		-webkit-animation-delay: 0.65s;
+		animation-delay: 0.65s;
+	}
+
+	.animated#section4 .pic1{
+		opacity:0;
+        -webkit-animation: slideMove .5s ease-out forwards;
+		animation: slideMove .5s ease-out forwards;
+		-webkit-animation-delay: .5s;
+		animation-delay: .5s;
+	}
+	.animated#section4 .pic2{
+		opacity:0;
+        -webkit-animation: ZoomIn 1s  cubic-bezier(0.175, 0.885, 0.32, 1.2) forwards;
+		animation: ZoomIn 1s  cubic-bezier(0.175, 0.885, 0.32, 1.2) forwards;
+	}
+	.animated#section4 .pic3{
+		opacity:0;
+        -webkit-animation: slideLeft .5s ease-out forwards;
+		animation: slideLeft .5s ease-out forwards;
+		-webkit-animation-delay: .3s;
+		animation-delay: .3s;
+	}
+}
+
+@media screen and (max-width:1300px) {
+	#page_v20{background-size:19.2rem auto; }
+	html {
+		font-size: calc(100vw / 19.2);
+	}
+}
+
+@-webkit-keyframes fadeOpacity {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+@keyframes fadeOpacity {
+    0% {opacity: 0;}
+    100% {opacity: 1;}
+}
+@-webkit-keyframes slideMove {
+    0% {transform: translateY(20px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes slideMove {
+    0% {transform: translateY(20px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes slideRight {
+    0% {transform: translateX(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes slideRight {
+	0% {transform: translateX(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes slideLeft {
+    0% {transform: translateX(-60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes slideLeft {
+	0% {transform: translateX(-60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes ZoomIn{
+	0%{opacity:0;transform:translateX(60px) scale(.5)}
+	100%{opacity:1;transform:translateX(0) scale(1)}
+}
+@keyframes ZoomIn {
+	0%{opacity:0;transform:translateX(60px) scale(.5)}
+	100%{opacity:1;transform:translateX(0) scale(1)}
+}
+@keyframes slideRight2 {
+    0% {transform: translateX(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes slideRight2 {
+	0% {transform: translateX(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes slideLeft2 {
+    0% {transform: translateX(-60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes slideLeft2 {
+	0% {transform: translateX(-60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+/* @-webkit-keyframes titleSlide {
+    0% {transform: translateY(10px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes titleSlide {
+    0% {transform: translateY(10px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@keyframes slideUp {
+    0% {transform: translateY(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+}
+@-webkit-keyframes slideUp {
+    0% {transform: translateY(60px)}
+    100% {opacity: 1;transform: translateZ(0)}
+} */

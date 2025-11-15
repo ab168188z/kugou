@@ -1,0 +1,1009 @@
+﻿
+html {
+  -webkit-text-size-adjust: none;
+  -webkit-user-select: none
+}
+* {
+  font-family: \5FAE\8F6F\96C5\9ED1,simsun,sans-serif;
+}
+a,blockquote,body,dd,div,dl,dt,fieldset,form,h1,h2,h3,h4,h5,h6,img,input,li,ol,p,pre,td,textarea,th,ul {
+  margin: 0;
+  padding: 0
+}
+
+a,h1,h2,h3,h4,h5,h6,p {
+  font-size: 100%
+}
+
+li,ol,ul {
+  list-style: none
+}
+
+table {
+  border-collapse: collapse;
+  border-style: none
+}
+
+button {
+  border: 0 none;
+  padding: 0;
+  cursor: pointer
+}
+
+.logo a,iframe {
+  display: block
+}
+
+img,input,select {
+  vertical-align: middle
+}
+
+img {
+  border: 0
+}
+
+input,select {
+  outline: none
+}
+
+a,img,textarea {
+  outline: none
+}
+
+textarea {
+  resize: vertical
+}
+
+a {
+  text-decoration: none
+}
+
+
+.cmhead1 {
+  background: #0062FF;
+  position: relative;
+}
+.cmhead1_d0 {
+  width: 1000px;
+  margin: 0 auto;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  height: 80px;
+}
+
+.cmhead1_d1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+img.cmhead1_i1 {
+  width: 149px;
+  height: 38px;
+  margin-right: 40px;
+}
+
+.cmhead1_d2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+a.cmhead1_a1 {
+  font-size: 14px;
+  color: #fff;
+  opacity: 0.9;
+  display: block;
+  margin-right: 30px;
+  min-width: 52px;
+  text-align: center;
+}
+a.cmhead1_a1:hover {
+  opacity: 1;
+}
+
+.cmhead1_d3 {
+  width: 1px;
+  background: rgb(255, 255, 255 , 0.5);
+  height: 14px;
+}
+.cmhead1_d7 {
+  width: 280px;
+  height: 30px;
+  position: relative;
+}
+
+input.cmhead1_ipt1 {
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border: none;
+  padding: 4px 10px 4px 40px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 14px;
+  color: #fff;
+  -webkit-border-radius: 31px;
+          border-radius: 31px;
+  background: rgba(77,194,255, 0);
+  position: relative;
+  z-index: 1;
+}
+.cmhead1_ipt1::-webkit-input-placeholder {
+  color: #fff;
+  opacity: 0.8;
+}
+.cmhead1_d8 {
+  background: url(https://kugoufc.top/static/image/icon_search_white.png) no-repeat;
+  background-size: 100%;
+  width: 15px;
+  height: 15px;
+  position: absolute;
+  left: 15px;
+  top: 8px;
+  cursor: pointer;
+  z-index: 1;
+}
+.cmhead1_d5 {
+  width: 90px;
+  height: 30px;
+  -webkit-border-radius: 15px;
+          border-radius: 15px;
+  background: #fff;
+  text-align: center;
+  line-height: 30px;
+  color: #0062FF;
+  cursor: pointer;
+  font-size: 16px;
+}
+
+.cmhead1_d4 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 154px;
+}
+
+.cmhead2_d0 {
+  height: 60px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+.cmhead2_d01 {
+  height: 60px;
+  background: rgba(0, 169, 255, 0.04);
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+}
+
+ul.cmhead2_ul1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+li.cmhead2_li1 {
+  width: 0;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 60px;
+  position: relative;
+}
+li.cmhead2_li1._active {
+}
+li.cmhead2_li1:hover {
+}
+li.cmhead2_li1:hover a.cmhead2_a1{
+  color: #0062FF;
+}
+li.cmhead2_li1._active a.cmhead2_a1{
+  color: #fff;
+  font-weight: bold;
+  background: #0062FF;
+  width: 72px;
+  height: 34px;
+  line-height: 34px;
+  border-radius: 18px;
+}
+
+li.cmhead2_li1._active a.cmhead2_a1{
+  width: 94px;
+}
+
+.cmhead2_li1._more {
+  width: 154px;
+  -webkit-flex-shrink: 0;
+      -ms-flex-negative: 0;
+          flex-shrink: 0;
+  -webkit-box-flex: inherit;
+  -webkit-flex: inherit;
+      -ms-flex: inherit;
+          flex: inherit;
+}
+.cmhead2_li1._more:hover {
+}
+.cmhead2_li1._more:hover .cmhead2_ul2{
+  display: block;
+} 
+.cmhead2_li1._more:hover .cmhead2_d2{
+  background: #0062FF;
+  width: 90px;
+  height: 34px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 18px;
+  color: #fff;
+} 
+.cmhead2_li1._more:hover .cmhead2_d3 {
+  background: url(https://kugoufc.top/static/image/icon_arrow_down_white.png) no-repeat;
+  width: 18px;
+  height: 18px;
+  background-size: 100%;
+  -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+.cmhead2_d2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: #000;
+  font-size: 16px;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.cmhead2 {
+  position: relative;
+  z-index: 1;
+  -webkit-box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.05);
+          box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.05);
+}
+
+a.cmhead2_a2 {
+  color: #000;
+  width: 108px;
+  height: 36px;
+  line-height: 36px;
+  display: block;
+  text-align: center;
+  font-size: 16px;
+}
+.cmhead2_a2:hover {
+  color: #0062FF;
+}
+
+ul.cmhead2_ul2 {
+  position: absolute;
+  top: 60px;
+  display: none;
+  padding: 15px 0;
+  background: #F4FBFF;
+  margin-top: 6px;
+  border-radius: 8px;
+  left: 24px;
+}
+ul.cmhead2_ul2::after {
+  content: '';
+  width: 0;
+  height: 0;
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  border-bottom: 20px solid #F4FBFF;
+  position: absolute;
+  top: -4px;
+  left: 32px;
+}
+
+a.cmhead2_a1 {
+  width: 136px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 60px;
+  position: relative;
+  color: #000;
+  font-size: 16px;
+}
+.cmhead2_d3 {
+  background: url(https://kugoufc.top/static/image/icon_arrow_down_black.png) no-repeat;
+  width: 18px;
+  height: 18px;
+  background-size: 100%;
+}
+
+.cmhead1_d9 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  cursor: pointer;
+}
+
+img.cmhead1_i2 {
+  width: 30px;
+  height: 30px;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+
+span.cmhead1_sp1 {
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  max-width: 70px;
+  font-size: 14px;
+  color: #fff;
+  opacity: 0.9;
+  margin-left: 8px;
+}
+
+.cmhead1_d10 {
+  position: absolute;
+  width: 108px;
+  height: 75px;
+  display: none;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  z-index: 1000;
+  background: url(https://kugoufc.top/static/image/bg_userinfo_select.png) no-repeat;
+  background-size: 100%;
+  background-position: center 8px;
+  top: 26px;
+  left: -5px;
+  padding-top: 8px;
+}
+
+.cmhead1_d6 {
+  display: none;
+}
+
+.cmhead1_d6._userinfoBox {
+  position: relative;
+}
+.cmhead1_d6._userinfoBox:hover .cmhead1_d10{
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+.cmhead1_d6._userinfoBox:hover .cmhead1_sp1{
+  opacity: 1;
+}
+
+.cmhead1_d11._userinfo {
+  background: url(https://kugoufc.top/static/image/icon_setting_gray.png) no-repeat;
+  background-size: 24px;
+}
+.cmhead1_d11._userinfo:hover {
+  background: url(https://kugoufc.top/static/image/icon_setting_v20.png) no-repeat;
+  background-size: 24px;
+}
+.cmhead1_d11._logout {
+  background: url(https://kugoufc.top/static/image/icon_logout.png) no-repeat;
+  background-size: 24px;
+  margin-top: 3px;
+}
+.cmhead1_d11._logout:hover {
+  background: url(https://kugoufc.top/static/image/icon_logout_blue_v20.png) no-repeat;
+  background-size: 24px;
+}
+
+.cmhead1_d11 {
+  font-size: 14px;
+  height: 24px;
+  line-height: 24px;
+  cursor: pointer;
+  color: #556677;
+  padding-left: 26px;
+  left: -3px;
+  position: relative;
+}
+.cmhead1_d11:hover {
+  color: #0062FF;
+}
+.cmhead1_d12 {
+  width: 280px;
+  background: #fff;
+  padding: 8px 12px 2px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+  z-index: 1001;
+  position: absolute;
+  top: 40px;
+  display: none;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.05);
+}
+
+li.cmhead1_li1 {
+  font-size: 14px;
+  padding: 4px 15px 4px 24px;
+  cursor: pointer;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+}
+span.cmhead1_sp4 {
+  color: #0062FF;
+}
+ul.cmhead1_ul1._recommendsong {
+}
+.cmhead1_d15 {
+  color: #858585;
+  font-size: 12px;
+  padding: 6px 24px;
+  margin: 6px 0;
+  cursor: pointer;
+}
+
+.cmhead1_d15:hover {
+  background: #f1f1f1;
+}
+
+ul.cmhead1_ul1._historysong {
+  border-bottom: 1px solid rgba(177, 179, 185, 0.3);
+}
+
+.cmhead1_d13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding-top: 8px;
+}
+
+ul.cmhead1_ul1 {
+  padding: 0 0 8px 0;
+}
+
+span.cmhead1_sp3 {
+  font-size: 14px;
+  color: #000;
+  font-weight: bold;
+  margin-left: 5px;
+}
+
+span.cmhead1_sp2 {
+  width: 18px;
+  height: 18px;
+  background: url(https://kugoufc.top/static/image/icon_arrow_down_black.png) no-repeat;
+  background-size: 100%;
+}
+
+li.cmhead1_li1:hover {
+  background: #f1f1f1;
+}
+.cmhead1_d14 {
+  width: 280px;
+  background: #fff;
+  padding: 8px 12px 2px;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  z-index: 1001;
+  position: absolute;
+  top: 40px;
+  display: none;
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.05);
+}
+
+
+.playtips {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 250px;
+  height: 160px;
+  margin-top: -125px;
+  margin-left: -80px;
+  _position: absolute;
+  _top: expression(offsetParent.scrollTop);
+  _left: expression(offsetParent.scrollLeft);
+  z-index: 9999
+}
+
+.playtips_bg,.relativeD {
+  position: relative;
+  width: 250px;
+  height: 160px
+}
+
+.playtips_bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  background-color: #000;
+  opacity: 0.5;
+  filter: alpha(opacity=50)
+}
+
+.playtips_icon {
+  position: absolute;
+  top: 32px;
+  left: 50%;
+  margin-left: -28px
+}
+
+.tipstext {
+  position: absolute;
+  top: 108px;
+  width: 100%;
+  text-align: center;
+  color: #fff
+}
+
+ul.ach_ul1 {
+  display: flex;
+  width: 1000px;
+  margin: 0 auto;
+}
+
+li.ach_li1 {
+  justify-content: center;
+  height: 60px;
+  position: relative;
+  flex: 1;
+  width: 0;
+  align-items: center;
+}
+
+a.ach_a1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  position: relative;
+  color: #000;
+  font-size: 16px;
+}
+
+.aboutcmhead {
+  box-shadow: 0px 1px 3px 0px rgba(0, 0, 0, 0.05);
+  background: rgba(0, 169, 255, 0.04);
+  margin-bottom: 40px;
+}
+
+li.ach_li1:hover {
+}
+
+li.ach_li1:hover .ach_a1 {
+  color: #0062FF;
+}
+.ach_li1._active {
+}
+.ach_li1._active .ach_a1 {
+  color: #0062FF;
+}
+
+
+.suspension4rightside {
+  right: 50px;
+  top: 770px;
+  position: absolute;
+  z-index: 99;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  background: #fff;
+  -webkit-border-radius: 8px;
+          border-radius: 8px;
+  border: 1px solid rgba(177, 179, 185, 0.3);
+}
+
+.s4rs_d2 {
+  width: 32px;
+  height: 32px;
+}
+
+p.s4rs_p1 {
+  color: #556677;
+  font-size: 12px;
+}
+
+a.s4rs_a1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.s4rs_d1 {
+  padding: 10px 0;
+  margin: 0 10px;
+  border-bottom: 1px solid rgb(151 151 151 / 10%);
+}
+
+._s4rs_icm1 {
+  background: url(https://kugoufc.top/static/image/icon_rs_i1.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_ic1:hover ._s4rs_icm1{
+  background: url(https://kugoufc.top/static/image/icon_rs_i1_active_v20.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_icm2 {
+  background: url(https://kugoufc.top/static/image/icon_rs_i2.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_ic2:hover ._s4rs_icm2{
+  background: url(https://kugoufc.top/static/image/icon_rs_i2_active_v20.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_icm3 {
+  background: url(https://kugoufc.top/static/image/icon_rs_i3.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_ic3:hover ._s4rs_icm3{
+  background: url(https://kugoufc.top/static/image/icon_rs_i3_active_v20.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_icm4 {
+  background: url(https://kugoufc.top/static/image/icon_rs_i4.png) no-repeat;
+  background-size: 100%;
+}
+._s4rs_ic4:hover ._s4rs_icm4{
+  background: url(https://kugoufc.top/static/image/icon_rs_i4_active_v20.png) no-repeat;
+  background-size: 100%;
+}
+
+.s4rs_a1:hover .s4rs_p1 {
+  color: #0062FF;
+}
+.s4rs_d3 {
+  display: none;
+  position: absolute;
+  left: -145px;
+  top: 0px;
+  padding-right: 50px;
+}
+
+img.s4rs_d3_i1 {
+  width: 110px;
+  height: 110px;
+}
+
+p.s4rs_d3_p2 {
+  color: #000;
+  font-size: 12px;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.s4rs_d3_d1 {
+  background: #fff;
+  border: 1px solid rgba(177, 179, 185, 0.3);
+  padding: 10px;
+  -webkit-border-radius: 5px;
+          border-radius: 5px;
+}
+.s4rs_a1._s4rs_ic1:hover .s4rs_d3 {
+  display: block;
+}
+
+
+.cmhead4aboutus {
+  background: #fff;
+  box-sizing: border-box;
+}
+
+.ch4a_d1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+img.ch4a_i1 {
+  width: 200px;
+  height: 100px;
+  margin-right: 100px;
+}
+.ch4a_li1._active .ch4a_a1 {
+  opacity: 1;
+}
+ul.ch4a_ul1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+li.ch4a_li1 {
+  width: 120px;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin: 0 10px;
+}
+
+a.ch4a_a1 {
+  color: #000;
+  font-size: 16px;
+  position: relative;
+}
+.ch4a_a1:hover {
+  opacity: 0.6;
+}
+.ch4a_li1._active a.ch4a_a1 {
+  font-weight: bold;
+}
+.ch4a_li1._active a.ch4a_a1::after {
+  content: " ";
+  width: 24px;
+  height: 3px;
+  background: #0062FF;
+  display: block;
+  left: 50%;
+  margin-left: -12px;
+  top: 34px;
+  position: absolute;
+  -webkit-border-radius: 2px;
+          border-radius: 2px;
+}
+.ch4a_d2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  min-width: 380px;
+  justify-content: space-between;
+}
+.ch4a_d2_d0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+input.ch4a_ipt1._aboutussearchinput {
+  border: none;
+  background: #F6F6F6;
+  -webkit-border-radius: 30px;
+          border-radius: 30px;
+  width: 160px;
+  height: 48px;
+  padding: 14px 20px 14px 48px;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 14px;
+}
+.ch4a_i2 {
+  cursor: pointer;
+  position: absolute;
+  left: 20px;
+  top: 16px;
+  width: 18px;
+  height: 18px;
+}
+.ch4a_i2:hover {
+  opacity: 0.6;
+}
+a.ch4a_a2 {
+  font-size: 16px;
+  color: #000;
+  min-width: 60px;
+  flex-shrink: 0;
+}
+.ch4a_a2:hover {
+  opacity: 0.6;
+}
+.cmhead4aboutus .cmhead1_d5:hover  {
+  opacity: 0.6;
+}
+.ch4a_d3 {
+  position: relative;
+  margin-right: 20px
+}
+.ch4a_d0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  background: #fff;
+  width: 1720px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+span.ch4a_sp1 {
+  width: 1px;
+  height: 18px;
+  background: #000;
+  margin: 0 30px 0 0;
+}
+.cmhead4aboutus span.cmhead1_sp1 {
+  color: #000;
+  font-size: 16px;
+}
+.cmhead4aboutus .cmhead1_d5._login {
+  color: #000;
+}
+.ch4a_i2 {
+  cursor: pointer;
+}
+.cmhead4aboutus .cmhead1_d6._userinfoBox:hover .cmhead1_d10 {
+  -webkit-box-shadow: 0px 3px 5px -5px;
+          box-shadow: 0px 3px 5px -5px;
+}
+.cmhead1_nd0 {
+  border-radius: 31px;
+  background: rgba(255,255,255,0.3);
+  width: 100%;
+  height: 100%;
+  outline: none;
+  border: none;
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.cmhead1_nd1 {
+  position: absolute;
+  color: #fff;
+  line-height: 30px;
+  margin-left: 41px;
+  z-index: 1;
+  font-size: 15px;
+  overflow: hidden;
+  height: 30px;
+  width: 240px;
+}
+.cmhead1_nd1_sp1 {
+  margin-left: 4px;
+  position: relative;
+  opacity: 0.6;
+}
+.cmhead1_nd1_item {
+  position: absolute;
+  left: 0;
+  width: 100%;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+@media screen and (max-width: 1920px) {
+  .ch4a_d0 {
+    width: 1200px;
+  }
+  li.ch4a_li1 {
+    width: 110px;
+    margin: 0;
+  }
+  
+  img.ch4a_i1 {
+    margin-right: 0;
+  }
+    
+  .ch4a_d3 {
+    position: relative;
+    margin-right: 0
+  }
+}
